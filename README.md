@@ -24,4 +24,5 @@ API.getProxies('Proxy Type', 'API Key');
 
 API.on('request', data => {
     console.log(data.proxies)
-})```
+})
+```
