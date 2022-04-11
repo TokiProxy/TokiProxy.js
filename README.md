@@ -15,7 +15,7 @@ API.on('request', data => {
 ```
 
 If using TypeScript it's a bit different, instead it would look like this:
-```js
+```ts
 import TokiProxy from 'tokiproxy.js';
 
 const API = new TokiProxy();
