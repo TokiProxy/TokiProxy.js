@@ -8,6 +8,10 @@
       "import": "./src/index.mjs"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TokiProxy/TokiProxy.js"
+  },
   "keywords": [],
   "author": "Strazimir",
   "license": "MIT",
